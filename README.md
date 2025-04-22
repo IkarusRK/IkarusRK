@@ -3,7 +3,10 @@
 **`Desenvolvedora FullStack`**
 
 Olá :] sou Daniel, tenho 19 anos. 
+<br>
 📕 Estudante do SENAI e Federal (IFBA)
+<br>
+Email: Danielreismax@gmail.com
 
 ---
 
