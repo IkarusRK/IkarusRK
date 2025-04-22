@@ -4,7 +4,7 @@
 
 Olá :] sou Daniel, tenho 19 anos. 
 <br>
-📕 Estudante do SENAI e Federal (IFBA)
+📕 Senai / IFBA (Instituto Federal da Bahia)
 <br>
 Email: Danielreismax@gmail.com
 
