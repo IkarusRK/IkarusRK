@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Daniel Reis
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Olá :] sou Daniel, tenho 19 anos. 
 <br>
