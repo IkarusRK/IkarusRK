@@ -1,12 +1,12 @@
-# 👨🏻‍💻 Daniel Reis
+
 
 **`Desenvolvedor FullStack`**
 
-Olá :] sou Daniel, tenho 19 anos. 
+ 
 <br>
 📕 Senai / IFBA (Instituto Federal da Bahia)
 <br>
-Email: Danielreismax@gmail.com
+Email: Ikarusreismax@gmail.com
 
 ---
 
