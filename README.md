@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Daniel Reis
 
-<img src="https://komarev.com/ghpvc/?username=IkarusRK=Visitas&color=1a1b27&style=flat" alt="Visitas no Perfil"/>
+<img src="https://komarev.com/ghpvc/?username=IkarusRK&color=1a1b27&style=flat" alt="Profile views"/>
 
 🎓 Estudante de **Desenvolvimento de Sistemas** no **SENAI**  
 🎓 Estudante de **Computação** no **IFBA**  
