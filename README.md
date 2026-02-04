@@ -3,7 +3,8 @@
 
  
 <br>
-📕 Senai / IFBA (Instituto Federal da Bahia)
+📕 Desenvolvimento de Sistemas Senai
+📕 Computação IFBA (Instituto Federal da Bahia)
 <br>
 Email: Ikarusreismax@gmail.com
 
