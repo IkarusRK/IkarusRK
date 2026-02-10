@@ -82,11 +82,6 @@ const daniel = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IkarusRK&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=6366f1&text_color=e2e8f0"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IkarusRK&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=e2e8f0"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=IkarusRK&theme=radical&hide_border=true&background=0D1117&stroke=6366f1&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" alt="GitHub Streak"/>
 </div>
 
