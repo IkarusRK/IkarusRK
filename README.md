@@ -234,7 +234,6 @@ const daniel = {
 - 📚 Prefiro entender o "porquê" antes do "como"
 - 🎯 Meu objetivo: contribuir com projetos open-source
 - 🌱 Atualmente aprendendo TypeScript e arquitetura de microsserviços
-- 💡 Acredito que código limpo é código que conta uma história
 
 ---
 
