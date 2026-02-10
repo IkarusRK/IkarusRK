@@ -91,14 +91,6 @@ const daniel = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=IkarusRK&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trophies"/>
-</div>
-
----
-
 ## 💡 Projetos em Destaque
 
 <table align="center">
