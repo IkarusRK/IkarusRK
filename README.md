@@ -125,12 +125,12 @@ const daniel = {
 </div>
 </td>
 <td width="50%">
-<h3 align="center">👥 Arasaka Port</h3>
+<h3 align="center">✨ Aura RPG</h3>
 <div align="center">
-<a href="https://github.com/IkarusRK/Arasaka-Port" target="_blank">
+<a href="https://aurarpg.netlify.app/" target="_blank">
 <img src="https://img.shields.io/badge/Ver_Código-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="Ver Código"/>
 </a>
-<p><strong>Full Stack, MySQL, Cloud</strong> - Sistema de cadastro e controle com banco de dados em nuvem.</p>
+<p><strong>TypeScript, RRDOM, React, Supabase</strong> - Site informativo sobre Aura RPG.</p>
 </div>
 </td>
 </tr>
