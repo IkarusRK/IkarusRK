@@ -159,7 +159,7 @@ const daniel = {
 <div align="center">
 
 ### 🌐 Portfólio Completo
-[![Portfolio](https://img.shields.io/badge/Veja_Todos_os_Projetos-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ikarusrk.github.io/Portifolio/)
+[![Portfolio](https://img.shields.io/badge/Veja_Todos_os_Projetos-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://ikarusrk.github.io/Portifolio/](https://portifolio-theta-virid-84.vercel.app/))
 
 </div>
 
