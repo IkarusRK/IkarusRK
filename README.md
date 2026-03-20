@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Daniel Reis | IkarusRK
+# 👨‍💻 D.M.R | IkarusRK
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Desenvolvedor+Full+Stack;Estudante+de+Computa%C3%A7%C3%A3o;Apaixonado+por+Tecnologia" alt="Typing SVG" />
 
@@ -203,12 +203,10 @@ const daniel = {
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/danielreismax@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielreismax@gmail.com)
 [![Email](https://img.shields.io/badge/ikarusreismax@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ikarusreismax@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-reis-6ba189317/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IkarusRK)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ikarusrk.github.io/Portifolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vercel.com/ikarusrks-projects/portifolio/AujoQhozEHKBdpQgH1PNWNwi69PQ)
 
 </div>
 
