@@ -206,7 +206,7 @@ const daniel = {
 [![Email](https://img.shields.io/badge/ikarusreismax@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ikarusreismax@gmail.com)
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IkarusRK)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vercel.com/ikarusrks-projects/portifolio/AujoQhozEHKBdpQgH1PNWNwi69PQ)
+[![Portfolio]([https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white](https://portifolio-theta-virid-84.vercel.app/))]
 
 </div>
 
