@@ -33,11 +33,11 @@ const daniel = {
     location: "Salvador, BA - Brasil",
     education: ["SENAI - Desenvolvimento de Sistemas", "IFBA - Computação"],
     currentFocus: ["Clean Code", "APIs REST", "Spring Boot", "TypeScript"],
-    funFact: "Adoro entender o 'porquê' por trás do código, não apenas fazê-lo funcionar",
+    funFact: "Archeus",
     askMeAbout: ["Java", "Web Development", "Hardware", "Clean Code"],
     technologies: {
         backend: ["Java", "Spring Boot", "Python", "C++", "C#"],
-        frontend: ["JavaScript", "HTML5", "CSS3", "React", "Tailwind CSS"],
+        frontend: ["JavaScript" "TypeScript", "HTML5", "CSS3", "React", "Tailwind CSS"],
         databases: ["MySQL", "Supabase"],
         tools: ["Git", "GitHub", "VS Code", "Linux"]
     }
@@ -66,6 +66,7 @@ const daniel = {
 
 ### 🔧 Backend & Databases
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
