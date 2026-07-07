@@ -137,12 +137,12 @@ const daniel = {
 </tr>
 <tr>
 <td width="50%">
-<h3 align="center">🚗 AutoElite</h3>
+<h3 align="center"> Archeus </h3>
 <div align="center">
-<a href="https://ikarusrk.github.io/Concessionaria/" target="_blank">
+<a href="https://archeus-orb.netlify.app/" target="_blank">
 <img src="https://img.shields.io/badge/Ver_Projeto-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Ver Projeto"/>
 </a>
-<p><strong>HTML, CSS, JavaScript</strong> - Concessionária com sistema completo para venda de veículos.</p>
+<p><strong>React, TypeScript </strong> - O sistema de defesa absoluto.</p>
 </div>
 </td>
 <td width="50%">
