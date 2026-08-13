@@ -9,23 +9,20 @@
   <img src="https://img.shields.io/github/followers/IkarusRK?style=for-the-badge&color=6366f1&labelColor=1a1b27" alt="Followers"/>
   <img src="https://img.shields.io/github/stars/IkarusRK?style=for-the-badge&color=6366f1&labelColor=1a1b27" alt="Stars"/>
 </p>
-
-### 🎓 Formação
+;
+### Formação
 **Desenvolvimento de Sistemas** - SENAI | **Ciência da Computação** - IFBA
 
-### 📍 Localização
+### Localização
 Salvador, Bahia – Brasil 🇧🇷
-
-### 💼 Status
-🔍 Buscando oportunidades como **Estagiário** ou **Jovem Aprendiz** em Tecnologia
 
 ---
 
 </div>
 
-## 🚀 Sobre Mim
+## Sobre Mim
 
-Sou um desenvolvedor apaixonado por criar soluções elegantes para problemas complexos. Acredito que **código limpo** e **bem documentado** é tão importante quanto funcionalidade. Meu objetivo é unir o conhecimento prático do SENAI com a base teórica do IFBA para me tornar um desenvolvedor completo.
+Sou um desenvolvedor, gosto de criar soluções para problemas complexos. Meu objetivo é unir o conhecimento prático do SENAI com a base teórica do IFBA para me tornar um desenvolvedor ainda melhor.
 
 ```javascript
 const daniel = {
@@ -46,31 +43,31 @@ const daniel = {
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
-### 💻 Linguagens de Programação
+### Linguagens de Programação
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-### 🌐 Frontend & Web
+### Frontend & Web
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### 🔧 Backend & Databases
+### Backend & Databases
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-### ⚙️ Ferramentas & Plataformas
+### Ferramentas & Plataformas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -80,7 +77,7 @@ const daniel = {
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=IkarusRK&theme=radical&hide_border=true&background=0D1117&stroke=6366f1&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" alt="GitHub Streak"/>
@@ -92,7 +89,7 @@ const daniel = {
 
 ---
 
-## 💡 Projetos em Destaque
+## Projetos em Destaque
 
 <table align="center">
 <tr>
