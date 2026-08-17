@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/github/followers/IkarusRK?style=for-the-badge&color=6366f1&labelColor=1a1b27" alt="Followers"/>
   <img src="https://img.shields.io/github/stars/IkarusRK?style=for-the-badge&color=6366f1&labelColor=1a1b27" alt="Stars"/>
 </p>
-;
+
 ### Formação
 **Desenvolvimento de Sistemas** - SENAI | **Ciência da Computação** - IFBA
 
