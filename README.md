@@ -5,11 +5,6 @@
 
 <!-- TYPING SVG (MISTO EMPRESARIAL + GAMES/3D) -->
 <a href="https://portifolio-theta-virid-84.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&random=false&width=780&lines=Desenvolvedor+Full+Stack+%7C+Java%2C+Spring+Boot%2C+React+%2B+TypeScript;Engenharia+de+Software+(UFBA)+%E2%80%A2+Computa%C3%A7%C3%A3o+(IFBA)+%E2%80%A2+SENAI;Sistemas+de+Alta+Performance+(Lua+0.01ms)%2C+NUI+%E2%80%A2+Modelagem+3D;Arquitetura+Limpa%2C+Seguran%C3%A7a+Server-Side+%E2%80%A2+Experi%C3%AAncias+Imersivas" alt="Typing SVG" />
-</a>
-
-<!-- TYPING SVG (MISTO EMPRESARIAL + GAMES/3D) -->
-<a href="https://portifolio-theta-virid-84.vercel.app/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&random=false&width=780&lines=Desenvolvedor+Full+Stack+%7C+Java%2C+Spring+Boot%2C+React+%26+TypeScript;Engenharia+de+Software+(UFBA)+%E2%80%A2+Computa%C3%A7%C3%A3o+(IFBA)+%E2%80%A2+SENAI;Sistemas+de+Alta+Performance+(Lua+0.01ms)%2C+NUI+%26+Modelagem+3D;Arquitetura+Limpa%2C+Seguran%C3%A7a+Server-Side+%26+Experi%C3%AAncias+Imersivas" alt="Typing SVG" />
 </a>
 
