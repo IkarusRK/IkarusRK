@@ -1,7 +1,12 @@
 <div align="center">
 
 <!-- HEADER EXTRAGAVANTE NEON -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:6366f1,100:2563eb&height=200&section=header&text=Kimera%20%7C%20IkarusRK&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Software%20Engineer%20%E2%80%A2%20Interactive%20Systems%20%26%203D%20WebGL&descAlignY=58&descSize=16" width="100%" alt="Header Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:6366f1,100:2563eb&height=200&section=header&text=Kimera%20%7C%20IkarusRK&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Software%20Engineer%20%E2%80%A2%20Interactive%20Systems%20%E2%80%A2%203D%20WebGL&descAlignY=58&descSize=16" width="100%" alt="Header Banner"/>
+
+<!-- TYPING SVG (MISTO EMPRESARIAL + GAMES/3D) -->
+<a href="https://portifolio-theta-virid-84.vercel.app/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&random=false&width=780&lines=Desenvolvedor+Full+Stack+%7C+Java%2C+Spring+Boot%2C+React+%2B+TypeScript;Engenharia+de+Software+(UFBA)+%E2%80%A2+Computa%C3%A7%C3%A3o+(IFBA)+%E2%80%A2+SENAI;Sistemas+de+Alta+Performance+(Lua+0.01ms)%2C+NUI+%E2%80%A2+Modelagem+3D;Arquitetura+Limpa%2C+Seguran%C3%A7a+Server-Side+%E2%80%A2+Experi%C3%AAncias+Imersivas" alt="Typing SVG" />
+</a>
 
 <!-- TYPING SVG (MISTO EMPRESARIAL + GAMES/3D) -->
 <a href="https://portifolio-theta-virid-84.vercel.app/">
@@ -35,10 +40,6 @@
 </div>
 
 ---
-
-## ⚡ Sobre Mim
-
-Desenvolvedor focado em construir soluções para problemas complexos — unindo **engenharia de software corporativa** (APIs REST, microsserviços, bancos de dados relacionais e interfaces reativas em React/TypeScript) com a **performance extrema do desenvolvimento para jogos e mundos 3D** (sistemas em tempo real, Lua, WebGL e Unreal Engine 5).
 
 ```typescript
 const ikarus = {
@@ -196,7 +197,7 @@ const ikarus = {
 
 <div align="center">
 
-### 🌐 Acesse Meus Portfólios Interativos (com Partículas 3D & WebGL)
+### Acesse Meus Portfólios Interativos (com Partículas 3D & WebGL)
 [![Portfólio Principal](https://img.shields.io/badge/💼_Portfólio_Full_Stack_&_3D_(Recrutadores)-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://portifolio-theta-virid-84.vercel.app/)
 [![Portfólio Sylver](https://img.shields.io/badge/⚡_Portfólio_Sistemas_&_FiveM_(Clientes)-2563eb?style=for-the-badge&logo=gamepad&logoColor=white)](https://portifolio-sylver.vercel.app/)
 
@@ -208,22 +209,22 @@ const ikarus = {
 
 <div align="center">
 
-| 💬 Comunicação Clara | 🤝 Trabalho em Equipe | 🚀 Aprendizado Rápido |
+| Comunicação Clara | Trabalho em Equipe | Aprendizado Rápido |
 |:---:|:---:|:---:|
-| **📖 Arquitetura & Clean Code** | **🔄 Alta Adaptabilidade** | **💡 Resolução de Problemas Complexos** |
+| **Arquitetura & Clean Code** | **Alta Adaptabilidade** | **Resolução de Problemas Complexos** |
 
 <br/>
 
 | Idioma | Nível |
 |:---:|:---:|
 | 🇧🇷 **Português** | Nativo |
-| 🇺🇸 **Inglês** | Intermediário (Leitura Técnica & Documentação) |
+| 🇺🇸 **Inglês** | Intermediário (Leitura & Documentação) |
 
 </div>
 
 ---
 
-## 📫 Entre em Contato
+## Entre em Contato
 
 <div align="center">
 
@@ -233,17 +234,6 @@ const ikarus = {
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IkarusRK)
 
 ---
-
-### 💭 Filosofia de Desenvolvimento
-
-*"O único modo de fazer um excelente trabalho é amar o que você faz."* — **Steve Jobs**
-
-> **🔥 "Código limpo não é escrito seguindo um conjunto de regras. Você não se torna um artesão de software aprendendo uma lista do que fazer e do que não fazer. Profissionalismo e artesania vêm de valores que dirigem disciplinas."** — *Uncle Bob*
-
-### ⚡ Curiosidades
-- 🔧 Além de engenharia de software, sou entusiasta de hardware, montagem e arquitetura de computadores
-- 📚 Prefiro entender a fundo o **"porquê"** da arquitetura antes do **"como"**
-- 🎯 Foco constante em **Clean Code**, **segurança de aplicações** e **performance (zero lag)**
 
 ---
 
